@@ -2,7 +2,7 @@
 	"port": 64389,
 	"bind": "localhost",
 	"files": ["./public/**/*.{html,htm,css,js}"],
-	"index": "pangolin-dl.html",
+	"index": "index.html",
 	"server": [
 		"./build",
 		"./public",
